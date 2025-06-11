@@ -67,6 +67,10 @@ This project is a solid example of how real-time messaging systems work behind t
 - Repeat to open 2nd or 3rd client  
   (Enable “Allow parallel run” in IntelliJ if needed)
 
+## Output
+![Image](https://github.com/user-attachments/assets/f459c59a-45f4-4dc7-86b3-3b950e27e4d6)
+![Image](https://github.com/user-attachments/assets/cd5e9a72-0279-441c-a6ec-4bef51a41579)
+
 ### Optional: Run via Terminal
 ```bash
 javac Server.java
@@ -75,5 +79,3 @@ java Server
 # In new terminal tabs
 java Client
 java Client
-
-## Output
