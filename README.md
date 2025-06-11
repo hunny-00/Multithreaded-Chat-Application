@@ -1,5 +1,5 @@
 # Multithreaded-Chat-Application
-*COMPANY*: CODTECH IT SOLUTIONS
+####*COMPANY*: CODTECH IT SOLUTIONS
 *NAME*: ANAS KHAN
 *INTERN ID*: CT0DKK359
 *DOMAIN*: JAVA PROGRAMMING
@@ -73,8 +73,8 @@ This project is a solid example of how real-time messaging systems work behind t
 
 ### Optional: Run via Terminal
 ```bash
-javac Server.java
-javac Client.java
+javac ChatServer.java
+javac ChatClient.java
 java Server
 # In new terminal tabs
 java Client
